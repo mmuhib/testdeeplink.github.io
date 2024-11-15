@@ -1,1 +1,9 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.future.moviesByFawesomeAndroidTV",
+    "sha256_cert_fingerprints":
+    ["A4:FF:16:8C:87:88:09:85:A9:4C:FF:A5:D6:54:EA:05:E1:42:76:0B:B9:83:C3:61:46:10:80:FA:65:A8:37:F3"]
+  }
+}]
